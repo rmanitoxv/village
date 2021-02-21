@@ -1,0 +1,4 @@
+2021-02-21T07:13:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\village\wp-content\plugins\yith-woocommerce-wishlist\plugin-fw\includes\promo\yith-promo.php on line 11
+
+2021-02-21T07:15:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\village\wp-admin\includes\class-wp-site-health-auto-updates.php on line 362
+
